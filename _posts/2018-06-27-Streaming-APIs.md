@@ -1,9 +1,7 @@
 ---
-title: "Streaming APIs with Axway and Streamdata"
+title: "Building Streaming APIs with Axway API Management and Streamdata"
 permalink: /api-streaming/
 ---
-
-# Building Streaming APIs with Axway API Management and Streamdata
 
 With streaming APIs it's possible to push relevant updates to client devices from the server, which offers a couple of interesting benefits for large, distributed systems. In this post I'd like to show you how to use a combination of Axway's API Management solution and [Streamdata](streamdata.io) to securely virtualize and stream a JSON/REST API to end clients.
 
